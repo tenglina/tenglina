@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+I am Nandini Tengli and I am a Machine Learning Engineer working on optimizing Neural Networks for Edge Devices. Right now, I am working at on a Deep-Learning based Driver Monitoring System at Gentex. 
 
 <!--
 **tenglina/tenglina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
