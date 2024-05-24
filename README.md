@@ -1,9 +1,14 @@
 
+<p align="center">
+  <img src="https://github.com/tenglina/tenglina/assets/68368547/dfb024fe-cd9d-46da-8012-b3ee0ab951d6"/>
+</p>
+
+
 
 ![possible_github_background](https://github.com/tenglina/tenglina/assets/68368547/dfb024fe-cd9d-46da-8012-b3ee0ab951d6)
 
 
-## Hii 👋, I'm Nandini,
+                                                        ## Hii 👋, I'm Nandini
 
 I am a Machine Learning Engineer. I am part of the Machine Learning and Algorithms team at Gentex, and I'm working on designing and optimizing Neural Networks for Driver Monitoring Systems. I port ML models onto hardware and perform runtime optimizations like quantization to minimize inference time while maintaining accuracy. I also perform hardware acceleration where appropriate - for instance -- the pre and post-processing steps of the models to reduce latency. 
 
