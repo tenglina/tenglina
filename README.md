@@ -6,7 +6,7 @@ I am broadly interested in working in all things machine intelligence. I'm curre
 
 At university, I was a research assistant at The Secure and Intelligent Things Lab, and working on the security of Autonomous Vehicles. I explored various methods of generating Adversarial Examples using DNNs, that fool state-of-the-art object detection models including those part of the YOLO family, in Autonomous driving scenarios. 
 
-My previous experience also included working with United Airlines to develop a Machine Learning Quality Assurance web app, which used CNNs to score the quality of aircraft (accuracy 98%) automatically instead of Quality Engineers manually sifting through 1000s of images. The web app also helped the quality team automatically monitor the live sentiments of customers on X (then Twitter) using sentiment analysis
+My previous experience also includes working with United Airlines to develop a Machine Learning Quality Assurance web app, which used CNNs to score the quality of aircraft (accuracy 98%) automatically instead of Quality Engineers manually sifting through 1000s of images. The web app also helped the quality team automatically monitor the live sentiments of customers on X (then Twitter) using sentiment analysis
 
 I love learning and experimenting, so here you will find all my hobby projects! I like to delve deep into things, so you will see some deep dives into common algorithms like Principal Component Analysis, code to visualize CNNs, and even some Assembly programming! 
 
