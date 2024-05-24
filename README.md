@@ -24,3 +24,6 @@ I am Nandini Tengli and I am a Machine Learning Engineer working on optimizing N
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
+
+### Contact Me 
+![Gmail](nandini.tengli@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)
