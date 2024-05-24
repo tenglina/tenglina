@@ -26,4 +26,4 @@ I am Nandini Tengli and I am a Machine Learning Engineer working on optimizing N
 
 
 ### Contact Me 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[nandini.tengli@gmail.com]
+![nandini.tengli@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
