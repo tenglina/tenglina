@@ -4,7 +4,7 @@
 
 ## Hii 👋, I'm Nandini
 
-I am broadly interested in working in all things machine intelligence. I'm currently focusing on Machine Learning models that can run on compute-constrained devices, like mobile phones, tablets, and smart glasses. 
+I am broadly interested in working in all things machine intelligence. I'm currently focusing on ML/DL models that can run on compute-constrained devices, like mobile phones, tablets, and smart glasses. 
 
 Previously, I worked on porting Deeplearning models for driver monitoring onto hardware. I implemented runtime optimizations such as quantization and pruning. I also accelerated parts of the algorithm to take advantage of the architecture of specific accelerators. 
 
