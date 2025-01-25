@@ -4,9 +4,9 @@
 
 ## Hii 👋, I'm Nandini
 
-I am a Machine Learning Engineer. I am part of the Machine Learning and Algorithms team at Gentex, and I'm working on designing and optimizing Neural Networks for Driver Monitoring Systems. I port ML models onto hardware and perform runtime optimizations like quantization to minimize inference time while maintaining accuracy. I also perform hardware acceleration where appropriate - for instance -- the pre and post-processing steps of the models to reduce latency. 
+I am broadly interested in working in all things machine intelligence. I'm currently focusing on Machine Learning models that can run on compute-constrained devices, like mobile phones, tablets, and smart glasses. 
 
-I am broadly interested in working in all things machine intelligence. I'm currently focusing on developing Machine Learning models that can run on compute-constrained devices, like mobile phones, tablets, and smart glasses. 
+Previously, I worked on porting Deeplearning models for driver monitoring onto hardware. I implemented runtime optimizations such as quantization and pruning. I also accelerated parts of the algorithm to take advantage of the architecture of specific accelerators. 
 
 At university, I was a research assistant at The Secure and Intelligent Things Lab, and working on the security of Autonomous Vehicles. I explored various methods of generating Adversarial Examples using DNNs, that fool state-of-the-art object detection models including those part of the YOLO family, in Autonomous driving scenarios. 
 
